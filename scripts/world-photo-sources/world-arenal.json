@@ -1,0 +1,55 @@
+{
+  "id": "world-arenal",
+  "name": "阿雷纳尔火山",
+  "wikipedia": "Arenal Volcano",
+  "country": "哥斯达黎加",
+  "continent": "北美洲",
+  "wikipediaTitle": "Arenal Volcano",
+  "primary": "Arenal_volcano_(70785p)_(cropped).jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Arenal volcano (70785p) (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Arenallong.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CostaRica Arenal Volcano (pixinn.net).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CostaRica Arenal Volcano 1968Flow (pixinn.net).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Costa Rica relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Costa Rica.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pacaya-10.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red triangle with thick white border.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    }
+  ]
+}

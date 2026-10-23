@@ -1,0 +1,683 @@
+{
+  "id": "world-rio",
+  "name": "里约热内卢",
+  "wikipedia": "Rio de Janeiro",
+  "country": "巴西",
+  "continent": "南美洲",
+  "wikipediaTitle": "Rio de Janeiro",
+  "primary": "Cidade_Maravilhosa.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:1 rocinha aerial pano 2014.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:2015-01-21 - Evanil.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:2018 Rio de Janeiro - Igreja Presbiteriana.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:A bela vista do Cristo.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:AcademiaBrasileira1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Aerial view of the Statue of Christ the Redeemer.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Aeroporto do Rio de Janeiro RJ Santos Dumont 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Aeroporto galeao rj ME.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Afot3602.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ambox current red Asia Australia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Apache Vip 5 da Mobi-Rio parado no Terminal Aroldo Melodia em Cidade Universitária, bairro do Rio de Janeiro.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Aqueduto da Carioca, Santa Teresa e Glória (007A5P3F13-029).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Arcos do Jardim Botânico do Rio..jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:At Rio de Janeiro 2019 200 (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:AvenidaBrasilRJ.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bairro de Anchieta.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bandeira da cidade do Rio de Janeiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bandeira do estado do Rio de Janeiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Barca Pão de Açúcar (2).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Barra Panorama.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Barra da Tijuca - panoramio.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Biblioteca nacional rio janeiro.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BikeRio 11 2015 Praça Mauá 706.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bondinho do Pão de Açúcar by Diego Baravelli.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Brasão da cidade do Rio de Janeiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Brazil Rio de Janeiro location map.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Brazil State RiodeJaneiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bridge to Niteroi.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CC-BY icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CC BY icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cais do Valongo e da Imperatriz.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Centro. Rio de Janeiro, Brazil (33).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Centro Administrativo Municipal São Sebastião (2025-05-03).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Centro ciências humanas.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cidade Maravilhosa.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cidade das Artes by Diego Baravelli-08188.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ciudad.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Convento de Santo Antônio do Largo da Carioca 19.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cruise Ship Costa Serena docked in Rio de Janeiro (city) - Feb. 2011.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Edise.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Esculturas, Museu Nacional de Belas Artes 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Estadio sao januario cropp.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Estação Corte 8 - Trem Serie 3000 (2).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag Portugal (1640).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Angola.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Argentina.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Armenia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Australia (converted).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Azerbaijan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Belgium (civil).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Brazil.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Brazil (1822–1853).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Brazil (1960–1968).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Canada (Pantone).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Chile.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Colombia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Cuba.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Finland.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France (1794–1815, 1830–1958).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Germany.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Germany (1935–1945).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Greece.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Greece (1822-1978).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Israel.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Japan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Japan (1870-1999).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Japan (1870–1999).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Kenya.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Lebanon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Mexico.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Mexico (1934-1968).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Morocco.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Pakistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Paraguay.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Peru.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Poland.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Portugal (1640).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Portugal (official).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Puerto Rico.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Russia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of South Africa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of South Korea.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of South Korea (1984–1997).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Spain.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Sweden.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Turkey.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Ukraine.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Uzbekistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Venezuela (1954–2006).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Dominican Republic.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Netherlands.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the People's Republic of China.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Philippines.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Soviet Union.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United Kingdom (1-2).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United Kingdom of Portugal, Brazil, and the Algarves (1815-1825).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States (1896-1908).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States (1896–1908).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States (1912-1959).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States (1959–1960).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Forte de Copacabana panorama.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Global thinking.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Gnome-globe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:ISS-67 City lights of Rio De Janeiro, Brazil.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ilha D'Água by Diego Baravelli.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ipanema Paradise.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ipanema and Leblon as seen from Morro Dois Irmãos, with Lagoa and Cantagalo in the background, Rio de Janeiro, Brazil.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:LL-Q1860 (eng)-Flame, not lame-Rio de Janeiro.wav"
+    },
+    {
+      "ns": 6,
+      "title": "File:Linha Vermelha.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:MAM - Museu de Arte Moderna do Rio de Janeiro 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Maracana 2022.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Maracanã 2014 g.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Metro Rio 01 2013 Ipanema Osorio 5376.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Morro do Borel.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Museu do Amanhã, Rio de Janeiro, Brazil (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Museu do Amanhã - entrada (28044443423).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Nicola Antonio Facchinetti - Enseada do Botafogo.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Nicolas-Antoine Taunay.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Openstreetmap logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palácio Guanabara em agosto de 2017.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palácio Pedro Ernesto - Fundação da Cidade.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palácio Tiradentes.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:PanoramaRio.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panorama carioca (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panorama do sambódromo da Marquês de Sapucaí.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Parque Lage e Corcovado.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Parque Olímpico Rio 2016 (2).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Patioiserj.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:PedroErnestoPalace1-CCBY.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Plano Inclinado do Pavão-Pavãozinho.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praia da Barra e Montanhas do Parque Nacional da Tijuca.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praia de Copacabana - Rio de Janeiro, Brasil.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Projac, Globo.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pt-br Rio de Janeiro.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Public transport map of Rio de Janeiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pão de Açucar - Sugarloaf Mountain - Zuckerhut - Botafago.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pão de Açucar Rio de Janeiro Brazil - panoramio - Hiroki Ogawa (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Relief Map of Brazil.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio2016 Gerais 030 8069 -c-2016 GabrielHeusi HeusiAction.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio New Year Fireworks.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio de Janeiro - Cristo Redentor 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio de Janeiro ca1910s photo from USA Library of Congress 19301u.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio de Janeiro city bus.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio de Janeiro tram 06 at Largo do Guimarães.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio de janeiro 1889 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:RiodeJaneiro Municip RiodeJaneiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ruínas 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:South America (orthographic projection).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:South America laea relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:State flag of Venezuela (1954–2006).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Symbol category class.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:TIM MAIA SONIA D'ALMEIDA 1987.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tanques ocupam a Avenida Presidente Vargas, 1968-04-04.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Teatro Municipal - panoramio (4).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tempestade no Rio de Janeiro visto do Pão de Açúcar.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tom Jobim, 1972.tif"
+    },
+    {
+      "ns": 6,
+      "title": "File:Urca, Rio de Janeiro - State of Rio de Janeiro, Brazil - panoramio (14).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:VLT na Praça Mauá 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:World Heritage Logo global.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Zoneamento da Cidade do Rio de Janeiro.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:リオの幻想図書館 Real Gabinete Portugues de Leitura (8735773218).jpg"
+    }
+  ]
+}

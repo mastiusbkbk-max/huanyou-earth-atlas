@@ -1,0 +1,379 @@
+{
+  "id": "world-cartagena",
+  "name": "卡塔赫纳老城",
+  "wikipedia": "Cartagena, Colombia",
+  "country": "哥伦比亚",
+  "continent": "南美洲",
+  "wikipediaTitle": "Cartagena, Colombia",
+  "primary": "Museo_Naval_del_Caribe.JPG",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:58 - Carthagène - Décembre 2008.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:67 - Carthagène - Décembre 2008.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:69 - Carthagène - Décembre 2008.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Amarillo Latente.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Atardecer en Cartagena de Indias desde La Popa..jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Baluarte de Santo Domingo, Cartagena 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Baroque Colonial houses at Cartagena de Indias ca. 1850-1930 (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Boazio-Sir Francis Drake in Cartagena.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Calle de San agustin.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena, la heróica.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena, street scene.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena2011-Skyline-Habour.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena -Teatro Heredia.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena Colombia ca 1600.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena de Indias, interior del Teatro Heredia 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cartagena de Indias, museo del oro 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Castillo de San Felipe de Barajas 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Centro historico de Cartagena.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ciudad amurallada fog.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Clock Tower CTG 11 2019 1352.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Colombia - Bolívar - Cartagena de Indias.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Colombia relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Criollo of Cartagena de Indias (Colombia) circa 1796.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Defensa de Cartagena de Indias por la escuadra de D. Blas de Lezo, año 1741.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Don Blas de Lezo -Museo Naval-.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Edward Vernon by Thomas Gainsborough.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Es-Cartagena de Indias.oga"
+    },
+    {
+      "ns": 6,
+      "title": "File:Escudo de Cartagena de Indias.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Amazonas (Colombia).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Antioquia Department.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Arauca.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Atlántico.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Bolívar (Colombia).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Boyacá Department.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Caldas.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Caquetá.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Cartagena.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Casanare.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Cauca.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Cesar.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Chocó.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Colombia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Cundinamarca.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Guainía.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Guaviare.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Huila.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of La Guajira.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Magdalena.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Meta.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Nariño.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Norte de Santander.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Putumayo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Quindío.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Risaralda.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of San Andrés y Providencia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Santander Department.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Tolima.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Valle del Cauca.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Vaupés.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Vichada.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hyacinthe Rigaud - Philippe V, roi d'Espagne (1683-1746) - Google Art Project.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Iglesia de San Pedro Claver, Cartagena, Colombia (4980511743).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Iglesia y Convento de Santo Domingo 3.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Juan de Torrezar Díaz Pimienta.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mestiza of Cartagena de Indias (Colombia) circa 1799.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Museo Naval del Caribe.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palace of the Inquisition in 1875 (Cartagena, Colombia).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panorama Castillo San Felipe de Barajas CTG 11 2019 2864.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil links.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil oben.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil rechts.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil unten.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Playa Blanca, Barú.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Plaza@Cartagena.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prise et pillage de Carthagene d'Amerique en 1697 par Pointis.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Puerta del Reloj (Cartagena, Colombia) 1901.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Reconstruction of Taino village, Cuba.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Sector antiguo de la ciudad de Cartagena de Indias 2.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:South America laea relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Statue of Pedro de Heredia, Cartagena 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Stylaster roseus.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Teatro Adolfo Mejía, Cartagena 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Torre De Reloj27-09-14.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Translation to english arrow.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Vitral de l a Iglesia y Claustro de San Pedro Claver. Cartagena. Colombia.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikisource-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:World Heritage Logo global.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Zenon de Somodevilla y Bengoechea, Marquis de Ensenada (ca. 1750) - Jacopo Amigoni (Museo El Prado).jpg"
+    }
+  ]
+}

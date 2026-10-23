@@ -1,0 +1,828 @@
+[
+  {
+    "id": "world-eiffel",
+    "name": "埃菲尔铁塔",
+    "wikipedia": "Eiffel Tower",
+    "country": "法国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-mont-saint-michel",
+    "name": "圣米歇尔山",
+    "wikipedia": "Mont-Saint-Michel",
+    "country": "法国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-colosseum",
+    "name": "罗马斗兽场",
+    "wikipedia": "Colosseum",
+    "country": "意大利",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-venice",
+    "name": "威尼斯",
+    "wikipedia": "Venice",
+    "country": "意大利",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-dolomites",
+    "name": "多洛米蒂",
+    "wikipedia": "Dolomites",
+    "country": "意大利",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-sagrada-familia",
+    "name": "圣家堂",
+    "wikipedia": "Sagrada Família",
+    "country": "西班牙",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-alhambra",
+    "name": "阿尔罕布拉宫",
+    "wikipedia": "Alhambra",
+    "country": "西班牙",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-acropolis",
+    "name": "雅典卫城",
+    "wikipedia": "Acropolis of Athens",
+    "country": "希腊",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-meteora",
+    "name": "迈泰奥拉",
+    "wikipedia": "Meteora",
+    "country": "希腊",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-stonehenge",
+    "name": "巨石阵",
+    "wikipedia": "Stonehenge",
+    "country": "英国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-skye",
+    "name": "斯凯岛",
+    "wikipedia": "Isle of Skye",
+    "country": "英国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-jokulsarlon",
+    "name": "杰古沙龙冰河湖",
+    "wikipedia": "Jökulsárlón",
+    "country": "冰岛",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-geiranger",
+    "name": "盖朗厄尔峡湾",
+    "wikipedia": "Geirangerfjord",
+    "country": "挪威",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-matterhorn",
+    "name": "马特洪峰",
+    "wikipedia": "Matterhorn",
+    "country": "瑞士",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-fuji",
+    "name": "富士山",
+    "wikipedia": "Mount Fuji",
+    "country": "日本",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-kiyomizu",
+    "name": "京都清水寺",
+    "wikipedia": "Kiyomizu-dera",
+    "country": "日本",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-himeji",
+    "name": "姬路城",
+    "wikipedia": "Himeji Castle",
+    "country": "日本",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-taj-mahal",
+    "name": "泰姬陵",
+    "wikipedia": "Taj Mahal",
+    "country": "印度",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-hampi",
+    "name": "亨比",
+    "wikipedia": "Hampi",
+    "country": "印度",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-borobudur",
+    "name": "婆罗浮屠",
+    "wikipedia": "Borobudur",
+    "country": "印度尼西亚",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-komodo",
+    "name": "科莫多群岛",
+    "wikipedia": "Komodo National Park",
+    "country": "印度尼西亚",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-angkor",
+    "name": "吴哥",
+    "wikipedia": "Angkor Wat",
+    "country": "柬埔寨",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-petra",
+    "name": "佩特拉",
+    "wikipedia": "Petra",
+    "country": "约旦",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-wadi-rum",
+    "name": "瓦迪拉姆",
+    "wikipedia": "Wadi Rum",
+    "country": "约旦",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-cappadocia",
+    "name": "卡帕多奇亚",
+    "wikipedia": "Göreme",
+    "country": "土耳其",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-hagia-sophia",
+    "name": "圣索菲亚",
+    "wikipedia": "Hagia Sophia",
+    "country": "土耳其",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-annapurna",
+    "name": "安纳普尔纳山地",
+    "wikipedia": "Annapurna",
+    "country": "尼泊尔",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-ha-long",
+    "name": "下龙湾",
+    "wikipedia": "Hạ Long Bay",
+    "country": "越南",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-giza",
+    "name": "吉萨金字塔",
+    "wikipedia": "Giza pyramid complex",
+    "country": "埃及",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-serengeti",
+    "name": "塞伦盖蒂",
+    "wikipedia": "Serengeti National Park",
+    "country": "坦桑尼亚",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-kilimanjaro",
+    "name": "乞力马扎罗山",
+    "wikipedia": "Mount Kilimanjaro",
+    "country": "坦桑尼亚",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-sossusvlei",
+    "name": "索苏斯盐沼",
+    "wikipedia": "Sossusvlei",
+    "country": "纳米比亚",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-ait-benhaddou",
+    "name": "阿伊特本哈杜",
+    "wikipedia": "Aït Benhaddou",
+    "country": "摩洛哥",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-table-mountain",
+    "name": "桌山",
+    "wikipedia": "Table Mountain",
+    "country": "南非",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-grand-canyon",
+    "name": "大峡谷",
+    "wikipedia": "Grand Canyon",
+    "country": "美国",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-yellowstone",
+    "name": "黄石",
+    "wikipedia": "Yellowstone National Park",
+    "country": "美国",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-statue-liberty",
+    "name": "自由女神像",
+    "wikipedia": "Statue of Liberty",
+    "country": "美国",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-banff",
+    "name": "班夫山地",
+    "wikipedia": "Moraine Lake",
+    "country": "加拿大",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-chichen-itza",
+    "name": "奇琴伊察",
+    "wikipedia": "Chichen Itza",
+    "country": "墨西哥",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-machu-picchu",
+    "name": "马丘比丘",
+    "wikipedia": "Machu Picchu",
+    "country": "秘鲁",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-rio",
+    "name": "里约热内卢",
+    "wikipedia": "Rio de Janeiro",
+    "country": "巴西",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-iguazu",
+    "name": "伊瓜苏瀑布",
+    "wikipedia": "Iguazu Falls",
+    "country": "巴西",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-torres-paine",
+    "name": "百内国家公园",
+    "wikipedia": "Torres del Paine National Park",
+    "country": "智利",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-atacama",
+    "name": "阿塔卡马",
+    "wikipedia": "Valle de la Luna (Chile)",
+    "country": "智利",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-perito-moreno",
+    "name": "佩里托莫雷诺冰川",
+    "wikipedia": "Perito Moreno Glacier",
+    "country": "阿根廷",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-great-barrier-reef",
+    "name": "大堡礁",
+    "wikipedia": "Great Barrier Reef",
+    "country": "澳大利亚",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-sydney-opera",
+    "name": "悉尼歌剧院",
+    "wikipedia": "Sydney Opera House",
+    "country": "澳大利亚",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-milford-sound",
+    "name": "米尔福德峡湾",
+    "wikipedia": "Milford Sound",
+    "country": "新西兰",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-helsinki",
+    "name": "赫尔辛基主教座堂",
+    "wikipedia": "Helsinki Cathedral",
+    "country": "芬兰",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-neuschwanstein",
+    "name": "新天鹅堡",
+    "wikipedia": "Neuschwanstein Castle",
+    "country": "德国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-saint-basil",
+    "name": "圣瓦西里主教座堂",
+    "wikipedia": "Saint Basil's Cathedral",
+    "country": "俄罗斯",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-wat-arun",
+    "name": "郑王庙",
+    "wikipedia": "Wat Arun",
+    "country": "泰国",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-gyeongbokgung",
+    "name": "景福宫",
+    "wikipedia": "Gyeongbokgung",
+    "country": "韩国",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-gardens-bay",
+    "name": "滨海湾花园",
+    "wikipedia": "Gardens by the Bay",
+    "country": "新加坡",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-burj-khalifa",
+    "name": "哈利法塔",
+    "wikipedia": "Burj Khalifa",
+    "country": "阿联酋",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-belem",
+    "name": "贝伦塔",
+    "wikipedia": "Belém Tower",
+    "country": "葡萄牙",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-lyon",
+    "name": "里昂历史城区",
+    "wikipedia": "Lyon",
+    "country": "法国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-amsterdam",
+    "name": "阿姆斯特丹运河",
+    "wikipedia": "Canals of Amsterdam",
+    "country": "荷兰",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-brussels",
+    "name": "布鲁塞尔大广场",
+    "wikipedia": "Grand-Place",
+    "country": "比利时",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-prague",
+    "name": "布拉格历史城区",
+    "wikipedia": "Prague",
+    "country": "捷克",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-schonbrunn",
+    "name": "美泉宫",
+    "wikipedia": "Schönbrunn Palace",
+    "country": "奥地利",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-budapest",
+    "name": "布达佩斯多瑙河岸",
+    "wikipedia": "Budapest",
+    "country": "匈牙利",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-krakow",
+    "name": "克拉科夫老城",
+    "wikipedia": "Kraków Old Town",
+    "country": "波兰",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-dubrovnik",
+    "name": "杜布罗夫尼克",
+    "wikipedia": "Dubrovnik",
+    "country": "克罗地亚",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-plitvice",
+    "name": "十六湖",
+    "wikipedia": "Plitvice Lakes National Park",
+    "country": "克罗地亚",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-bled",
+    "name": "布莱德湖",
+    "wikipedia": "Lake Bled",
+    "country": "斯洛文尼亚",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-stockholm",
+    "name": "斯德哥尔摩老城",
+    "wikipedia": "Gamla stan",
+    "country": "瑞典",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-kronborg",
+    "name": "克伦堡",
+    "wikipedia": "Kronborg",
+    "country": "丹麦",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-skellig-michael",
+    "name": "斯凯利格·迈克尔岛",
+    "wikipedia": "Skellig Michael",
+    "country": "爱尔兰",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-sintra",
+    "name": "辛特拉",
+    "wikipedia": "Sintra",
+    "country": "葡萄牙",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-cologne",
+    "name": "科隆大教堂",
+    "wikipedia": "Cologne Cathedral",
+    "country": "德国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-versailles",
+    "name": "凡尔赛宫",
+    "wikipedia": "Palace of Versailles",
+    "country": "法国",
+    "continent": "欧洲"
+  },
+  {
+    "id": "world-petronas",
+    "name": "吉隆坡双子塔",
+    "wikipedia": "Petronas Towers",
+    "country": "马来西亚",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-chocolate-hills",
+    "name": "巧克力山",
+    "wikipedia": "Chocolate Hills",
+    "country": "菲律宾",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-luang-prabang",
+    "name": "琅勃拉邦",
+    "wikipedia": "Luang Prabang",
+    "country": "老挝",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-sigiriya",
+    "name": "锡吉里耶",
+    "wikipedia": "Sigiriya",
+    "country": "斯里兰卡",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-tiger-nest",
+    "name": "虎穴寺",
+    "wikipedia": "Paro Taktsang",
+    "country": "不丹",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-samarkand",
+    "name": "撒马尔罕",
+    "wikipedia": "Samarkand",
+    "country": "乌兹别克斯坦",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-persepolis",
+    "name": "波斯波利斯",
+    "wikipedia": "Persepolis",
+    "country": "伊朗",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-hegra",
+    "name": "黑格拉",
+    "wikipedia": "Hegra (Mada'in Salih)",
+    "country": "沙特阿拉伯",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-bahla",
+    "name": "巴赫莱堡",
+    "wikipedia": "Bahla Fort",
+    "country": "阿曼",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-masada",
+    "name": "马萨达",
+    "wikipedia": "Masada",
+    "country": "以色列",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-mohenjo-daro",
+    "name": "摩亨佐达罗",
+    "wikipedia": "Mohenjo-daro",
+    "country": "巴基斯坦",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-baa-atoll",
+    "name": "巴阿环礁",
+    "wikipedia": "Baa Atoll",
+    "country": "马尔代夫",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-bagan",
+    "name": "蒲甘",
+    "wikipedia": "Bagan",
+    "country": "缅甸",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-bagerhat",
+    "name": "巴盖尔哈特清真寺城",
+    "wikipedia": "Mosque City of Bagerhat",
+    "country": "孟加拉国",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-orkhon",
+    "name": "鄂尔浑河谷",
+    "wikipedia": "Orkhon Valley",
+    "country": "蒙古",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-itsukushima",
+    "name": "严岛神社",
+    "wikipedia": "Itsukushima Shrine",
+    "country": "日本",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-bromo",
+    "name": "布罗莫火山",
+    "wikipedia": "Mount Bromo",
+    "country": "印度尼西亚",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-ayutthaya",
+    "name": "大城遗址",
+    "wikipedia": "Ayutthaya Historical Park",
+    "country": "泰国",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-jaipur",
+    "name": "斋浦尔",
+    "wikipedia": "Jaipur",
+    "country": "印度",
+    "continent": "亚洲"
+  },
+  {
+    "id": "world-mount-kenya",
+    "name": "肯尼亚山",
+    "wikipedia": "Mount Kenya",
+    "country": "肯尼亚",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-bwindi",
+    "name": "布恩迪森林",
+    "wikipedia": "Bwindi Impenetrable National Park",
+    "country": "乌干达",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-rwanda-volcanoes",
+    "name": "卢旺达火山国家公园",
+    "wikipedia": "Volcanoes National Park",
+    "country": "卢旺达",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-victoria-falls",
+    "name": "维多利亚瀑布",
+    "wikipedia": "Victoria Falls",
+    "country": "赞比亚",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-okavango",
+    "name": "奥卡万戈三角洲",
+    "wikipedia": "Okavango Delta",
+    "country": "博茨瓦纳",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-tsingy",
+    "name": "贝马拉哈石林",
+    "wikipedia": "Tsingy de Bemaraha Strict Nature Reserve",
+    "country": "马达加斯加",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-vallee-mai",
+    "name": "马埃谷",
+    "wikipedia": "Vallée de Mai",
+    "country": "塞舌尔",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-lalibela",
+    "name": "拉利贝拉岩石教堂",
+    "wikipedia": "Rock-Hewn Churches, Lalibela",
+    "country": "埃塞俄比亚",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-el-jem",
+    "name": "杰姆圆形竞技场",
+    "wikipedia": "Amphitheatre of El Jem",
+    "country": "突尼斯",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-goree",
+    "name": "戈雷岛",
+    "wikipedia": "Gorée",
+    "country": "塞内加尔",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-djenne",
+    "name": "杰内古城",
+    "wikipedia": "Djenné",
+    "country": "马里",
+    "continent": "非洲"
+  },
+  {
+    "id": "world-havana",
+    "name": "哈瓦那老城",
+    "wikipedia": "Old Havana",
+    "country": "古巴",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-tikal",
+    "name": "蒂卡尔",
+    "wikipedia": "Tikal",
+    "country": "危地马拉",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-arenal",
+    "name": "阿雷纳尔火山",
+    "wikipedia": "Arenal Volcano",
+    "country": "哥斯达黎加",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-panama-canal",
+    "name": "巴拿马运河",
+    "wikipedia": "Panama Canal",
+    "country": "巴拿马",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-cartagena",
+    "name": "卡塔赫纳老城",
+    "wikipedia": "Cartagena, Colombia",
+    "country": "哥伦比亚",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-galapagos",
+    "name": "加拉帕戈斯群岛",
+    "wikipedia": "Galápagos Islands",
+    "country": "厄瓜多尔",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-uyuni",
+    "name": "乌尤尼盐沼",
+    "wikipedia": "Salar de Uyuni",
+    "country": "玻利维亚",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-canaima",
+    "name": "卡奈马",
+    "wikipedia": "Canaima National Park",
+    "country": "委内瑞拉",
+    "continent": "南美洲"
+  },
+  {
+    "id": "world-yosemite",
+    "name": "优胜美地",
+    "wikipedia": "Yosemite National Park",
+    "country": "美国",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-niagara",
+    "name": "尼亚加拉瀑布",
+    "wikipedia": "Niagara Falls",
+    "country": "加拿大",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-teotihuacan",
+    "name": "特奥蒂瓦坎",
+    "wikipedia": "Teotihuacan",
+    "country": "墨西哥",
+    "continent": "北美洲"
+  },
+  {
+    "id": "world-levuka",
+    "name": "莱武卡",
+    "wikipedia": "Levuka",
+    "country": "斐济",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-palau-rock-islands",
+    "name": "帕劳洛克群岛",
+    "wikipedia": "Rock Islands",
+    "country": "帕劳",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-tongariro",
+    "name": "汤加里罗",
+    "wikipedia": "Tongariro National Park",
+    "country": "新西兰",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-uluru",
+    "name": "乌鲁鲁",
+    "wikipedia": "Uluru",
+    "country": "澳大利亚",
+    "continent": "大洋洲"
+  },
+  {
+    "id": "world-melbourne",
+    "name": "墨尔本弗林德斯街",
+    "wikipedia": "Flinders Street railway station",
+    "country": "澳大利亚",
+    "continent": "大洋洲"
+  }
+]

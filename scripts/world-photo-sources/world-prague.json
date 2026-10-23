@@ -1,0 +1,411 @@
+{
+  "id": "world-prague",
+  "name": "布拉格历史城区",
+  "wikipedia": "Prague",
+  "country": "捷克",
+  "continent": "欧洲",
+  "wikipediaTitle": "Prague",
+  "primary": "Prague_(6365119737).jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:14-09-30-Velký-strahovský-stadion-RalfR-003.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:20190816 Brama Prochowa w Pradze 1859 5460 DxO.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:2022-10-15 Václavské náměstí 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Archikatedra Świętych Wita, Wacława i Wojciecha w Pradze 20190816 1333 5260.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Astronomical Clock (8341899828).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Barrande bridge.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bohuslav Svoboda (2022).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Charles Bridge (Karlův most), Vltava River, Prague, 2015.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coat of arms of Prague.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cs-Praha.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Europe relief laea location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:FFUK Praha.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Armenia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Austria.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Azerbaijan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Belarus.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Belgium (civil).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Bosnia and Herzegovina.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Bulgaria.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Croatia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Europe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Georgia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Germany.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Hungary.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of India.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Israel.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Japan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Kazakhstan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Kyrgyzstan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Moldova.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Mongolia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of North Macedonia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Poland.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Prague.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Romania.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Russia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Serbia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Slovakia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of South Korea.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Spain.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Turkey.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Ukraine.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Uzbekistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Vietnam.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Czech Republic.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Netherlands.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the People's Republic of China.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Philippines.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of China.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United Kingdom (1-2).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States (23px).png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Frantisek Palacky monument.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Havla 1989.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Josef Mathauser - Kněžna Libuše věští slávu Prahy (Historie českého národa v obrazech, obr. 005) retouched.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Kafka statue Prague.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:LL-Q1860 (eng)-Zazollo-Prague.wav"
+    },
+    {
+      "ns": 6,
+      "title": "File:Logo Praha.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Maqueta del castell de praga.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mariánské náměstí 2-2 Praha, Staré Město 20170906 001.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mrakodrapy v Praze 2018.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Museo Nacional, Praga, República Checa, 2022-07-02, DD 265-267 HDR.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Na Perštýně 5, U Medvídků.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Night view of the Castle and Charles Bridge, Prague - 8034.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Náměstí Míru sv. Ludmila.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Národní divadlo z ostrova 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Národní divadlo ze Střeleckého ostrova.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:O2 Arena, od Českomoravské.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panorama von Prag – Vincenc Morstadt – 1835.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:PetrinObservationTower.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prag Dom St. Veit 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prag Pulverturm.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prag ginger u fred gehry.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prago-Ruzyně, flughaveno, el-aera vido, 7.jpeg"
+    },
+    {
+      "ns": 6,
+      "title": "File:PragueCzechRepublicMalaStranaMostecka.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague (6365119737).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague 07-2016 View from Old Town Hall Tower img3.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague 07-2016 View from Powder Tower img4.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague 07-2016 tram at Florenc.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague 07-2016 view from Lesser Town Tower of Charles Bridge img3.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague Congress Centre (1).JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague Mala Strana St. Nicholas-02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague Praha 2014 Holmstad flott gammelnye synagoge old-new synagogue Josefov.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague Zoo main entrance.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague banner c1477.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague by Sentinel-2, 2020-05-18.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague districts en.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague from Powder Tower 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague liberation 1945 konev.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague old town square panorama.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Prague population pyramid in 2021.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praha, Letná, pohled na Pařížskou ulici.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praha, Vítkov, památník II.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praha 2009-12-26-27.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praha CoA CZ small.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Praha Holešovice EUSPA 1.jpg"
+    }
+  ]
+}

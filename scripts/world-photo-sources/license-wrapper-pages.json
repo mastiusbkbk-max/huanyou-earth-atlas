@@ -1,0 +1,112 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "redirects": [
+      {
+        "from": "Template:Cc-by-sa-all",
+        "to": "Template:Cc-by-sa-4.0,3.0,2.5,2.0,1.0"
+      },
+      {
+        "from": "Template:Stan Shebs photo",
+        "to": "User:Stan Shebs/License"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 10,
+        "title": "Template:User:Argenberg/License",
+        "missing": ""
+      },
+      "176616791": {
+        "pageid": 176616791,
+        "ns": 2,
+        "title": "User:Argenberg/License",
+        "revisions": [
+          {
+            "revid": 1280350433,
+            "parentid": 1280350265,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "<noinclude>{{delete|reason=Transcluded 7,126 times. Delete or subst the template per \"User-specific templates should be substituted if they incorporate a standard license template.\" at guideline [[COM:USER]].|subpage=User:Argenberg/License|year=2026|month=September|day=25}}</noinclude>\n{{self|cc-by-4.0|author={{Label|Q110897664|link=no}}|attribution=© [[User:Argenberg|{{Label|Q110897664|link=no}}]]}}"
+              }
+            }
+          }
+        ]
+      },
+      "1658993": {
+        "pageid": 1658993,
+        "ns": 2,
+        "title": "User:Stan Shebs/License",
+        "revisions": [
+          {
+            "revid": 40382079,
+            "parentid": 23719673,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "{{Self|GFDL|cc-by-sa-3.0|cc-by-sa-2.5|author=[[User:Stan Shebs|Stan Shebs]]}}\n\n[[Category:Photos by Stan Shebs]]\n<noinclude>\n[[Category:User custom license tags|{{PAGENAME}}]]\n</noinclude>"
+              }
+            }
+          }
+        ]
+      },
+      "33549972": {
+        "pageid": 33549972,
+        "ns": 10,
+        "title": "Template:Cc-by-sa-4.0,3.0,2.5,2.0,1.0",
+        "revisions": [
+          {
+            "revid": 493908537,
+            "parentid": 451186873,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "{{Cc-by-sa-layout\n|version=4.0-3.0-2.5-2.0-1.0\n|recversion=4.0\n|country=\n|attribution={{{attribution|{{{1|}}}}}}\n}}<includeonly>{{#ifeq:{{NAMESPACE}}|File|{{{category|[[Category:CC-BY-SA-4.0,3.0,2.5,2.0,1.0|{{PAGENAME}}]]}}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q47001652\n |missing_category     = Creative Commons Attribution-Share Alike 1.0 missing SDC copyright license\n |mismatching_category = Creative Commons Attribution-Share Alike 1.0 with different SDC copyright license\n}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q19068220\n |missing_category     = Creative Commons Attribution-Share Alike 1.0 missing SDC copyright license\n |mismatching_category = Creative Commons Attribution-Share Alike 2.0 with different SDC copyright license\n}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q19113751\n |missing_category     = Creative Commons Attribution-Share Alike 1.0 missing SDC copyright license\n |mismatching_category = Creative Commons Attribution-Share Alike 2.5 with different SDC copyright license\n}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q14946043\n |missing_category     = Creative Commons Attribution-Share Alike 1.0 missing SDC copyright license\n |mismatching_category = Creative Commons Attribution-Share Alike 3.0 with different SDC copyright license\n}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q18199165\n |missing_category     = Creative Commons Attribution-Share Alike 1.0 missing SDC copyright license\n |mismatching_category = Creative Commons Attribution-Share Alike 4.0 with different SDC copyright license\n}}\n}}</includeonly><noinclude>\n\n{{In category|CC-BY-SA-4.0,3.0,2.5,2.0,1.0}}\n\n{{documentation}}\n\n[[Category:CC license tags|{{PAGENAME}}]]\n[[Category:License tags attribution|{{PAGENAME}}]]\n[[Category:License tags share-alike|{{PAGENAME}}]]\n[[Category:Primary license tags (flat list)]]\n</noinclude>"
+              }
+            }
+          }
+        ]
+      },
+      "84839856": {
+        "pageid": 84839856,
+        "ns": 2,
+        "title": "User:Arne Müseler/Autor",
+        "revisions": [
+          {
+            "revid": 380794434,
+            "parentid": 380007808,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "©&nbsp;[[User:Arne mueseler|Arne Müseler]]\n{{Creator:Arne Müseler}}\n__NOTOC__\n__INDEX__"
+              }
+            }
+          }
+        ]
+      },
+      "11522083": {
+        "pageid": 11522083,
+        "ns": 2,
+        "title": "User:Arne Müseler/License",
+        "revisions": [
+          {
+            "revid": 685614023,
+            "parentid": 380794440,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "{{User:Arne Müseler/credit}}\n{{self|cc-by-sa-3.0-de|author=[[User:Arne Müseler|Arne Müseler]] / www.arne-mueseler.com}}<noinclude>[[Category:User custom license tags|{{PAGENAME}}]]</noinclude>"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

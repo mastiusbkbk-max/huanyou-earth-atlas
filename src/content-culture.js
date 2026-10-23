@@ -88,7 +88,7 @@ export const culturePlaces = [
   {
     id: 'victoria-harbour', name: '维多利亚港', en: 'VICTORIA HARBOUR', category: 'culture',
     province: '香港', theme: 'cities', aliases: ['维港', '香江', 'Victoria Harbour'],
-    region: '香港 · 香港岛与九龙之间', coordinate: [114.171, 22.293], zoom: 12.2, pitch: 58,
+    region: '香港 · 香港岛与九龙之间', coordinate: [114.171, 22.293], zoom: 12.2, pitch: 30, terrain: false,
     kicker: '城市围绕一片海展开', title: '海港，连接两岸的日常',
     description: '山地压向海岸，渡轮穿行楼宇之间，天然港湾与城市建设共同塑造香港的空间。',
     paragraphs: [
@@ -354,7 +354,7 @@ export const culturePlaces = [
   {
     id: 'shanghai-bund', name: '上海外滩', en: 'THE BUND', category: 'culture',
     province: '上海', theme: 'cities', aliases: ['外滩', '黄浦江', '中山东一路', '万国建筑'],
-    region: '上海 · 黄浦江西岸', coordinate: [121.49, 31.24], zoom: 12.8, pitch: 57,
+    region: '上海 · 黄浦江西岸', coordinate: [121.49, 31.24], zoom: 12.8, pitch: 30, terrain: false,
     kicker: '从江岸走向世界', title: '两岸天际线，照见城市变迁',
     description: '黄浦江的航运与金融贸易塑造外滩，历史建筑和对岸陆家嘴共同展现上海的城市进程。',
     paragraphs: [

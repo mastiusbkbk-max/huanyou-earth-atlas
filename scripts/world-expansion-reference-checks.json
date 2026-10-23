@@ -1,0 +1,134 @@
+[
+  {
+    "id": "world-bled",
+    "label": "Bled Tourism · 布莱德湖",
+    "url": "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
+    "status": "200 https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-stockholm",
+    "label": "Visit Stockholm · 老城",
+    "url": "https://www.visitstockholm.com/stockholms-districts/gamla-stan/",
+    "status": "200 https://www.visitstockholm.com/stockholms-districts/gamla-stan/",
+    "curlExit": 0,
+    "error": "",
+    "title": "Gamla Stan – Visit Stockholm",
+    "previousCheck": {
+      "url": "https://www.visitstockholm.com/see-do/attractions/gamla-stan/",
+      "status": "404 https://www.visitstockholm.com/see-do/attractions/gamla-stan/",
+      "curlExit": 0,
+      "error": ""
+    }
+  },
+  {
+    "id": "world-petronas",
+    "label": "Petronas Twin Towers · 官方建筑介绍",
+    "url": "https://www.petronastwintowers.com.my/",
+    "status": "200 https://www.petronastwintowers.com.my/",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-chocolate-hills",
+    "label": "UNESCO · 薄荷岛世界地质公园",
+    "url": "https://www.unesco.org/en/iggp/geoparks/bohol-island",
+    "status": "200 https://www.unesco.org/en/iggp/geoparks/bohol-island",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-tiger-nest",
+    "label": "Bhutan Travel · 不丹官方旅游资料",
+    "url": "https://bhutan.travel/",
+    "status": "200 https://bhutan.travel/",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-baa-atoll",
+    "label": "UNESCO · 巴阿环礁生物圈保护区",
+    "url": "https://www.unesco.org/en/mab/baa-atoll",
+    "status": "200 https://www.unesco.org/en/mab/baa-atoll",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-bromo",
+    "label": "UNESCO · 布罗莫腾格里塞梅鲁阿朱诺生物圈保护区",
+    "url": "https://www.unesco.org/en/mab/bromo-tengger-semeru-arjuno",
+    "status": "200 https://www.unesco.org/en/mab/bromo-tengger-semeru-arjuno",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-rwanda-volcanoes",
+    "label": "Visit Rwanda · 火山国家公园",
+    "url": "https://visitrwanda.com/destinations/volcanoes-national-park/",
+    "status": "200 https://visitrwanda.com/destinations/volcanoes-national-park/",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-arenal",
+    "label": "Visit Costa Rica · 阿雷纳尔火山国家公园",
+    "url": "https://www.visitcostarica.com/where-to-go/protected-areas/arenal-volcano-national-park",
+    "status": "200 https://www.visitcostarica.com/where-to-go/protected-areas/arenal-volcano-national-park",
+    "curlExit": 0,
+    "error": "",
+    "title": "Arenal Volcano National Park - Visit Costa Rica",
+    "previousCheck": {
+      "url": "https://www.sinac.go.cr/EN-US/ac/ACAHN/PNVA/Pages/default.aspx",
+      "status": "000 https://www.sinac.go.cr/EN-US/ac/ACAHN/PNVA/Pages/default.aspx",
+      "curlExit": 60,
+      "error": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above."
+    }
+  },
+  {
+    "id": "world-panama-canal",
+    "label": "Panama Canal Authority · 运河官方资料",
+    "url": "https://pancanal.com/en/",
+    "status": "200 https://pancanal.com/en/",
+    "curlExit": 0,
+    "error": ""
+  },
+  {
+    "id": "world-uyuni",
+    "label": "NASA Earth Observatory · 乌尤尼盐沼",
+    "url": "https://science.nasa.gov/earth/earth-observatory/lithium-harvesting-at-salar-de-uyuni-144976/",
+    "status": "200 https://science.nasa.gov/earth/earth-observatory/lithium-harvesting-at-salar-de-uyuni-144976/",
+    "curlExit": 0,
+    "error": "",
+    "title": "Lithium Harvesting at Salar de Uyuni - NASA Science",
+    "previousCheck": {
+      "url": "https://bolivia.travel/",
+      "status": "000 https://bolivia.travel/",
+      "curlExit": 6,
+      "error": "curl: (6) Could not resolve host: bolivia.travel"
+    }
+  },
+  {
+    "id": "world-niagara",
+    "label": "Niagara Parks · 尼亚加拉瀑布地质",
+    "url": "https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/niagara-falls-geology-facts-figures/",
+    "status": "200 https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/niagara-falls-geology-facts-figures/",
+    "curlExit": 0,
+    "error": "",
+    "title": "Niagara Falls Facts | Geology Facts & Figures",
+    "previousCheck": {
+      "url": "https://www.niagaraparks.com/visit/nature-garden/niagara-falls/",
+      "status": "404 https://www.niagaraparks.com/visit/nature-garden/niagara-falls/",
+      "curlExit": 0,
+      "error": ""
+    }
+  },
+  {
+    "id": "world-melbourne",
+    "label": "Visit Melbourne · 弗林德斯街车站",
+    "url": "https://www.visitmelbourne.com/regions/melbourne/see-and-do/art-and-culture/architecture-and-design/flinders-street-station",
+    "status": "403 https://www.visitmelbourne.com/regions/melbourne/see-and-do/art-and-culture/architecture-and-design/flinders-street-station",
+    "curlExit": 0,
+    "error": ""
+  }
+]

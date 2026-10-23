@@ -1,0 +1,16 @@
+{
+  "destinations": 118,
+  "covers": 118,
+  "details": 118,
+  "thumbnails": 118,
+  "photographs": 236,
+  "licenseEvidenceEntries": 236,
+  "validationErrors": 0,
+  "totalPhotoAndThumbBytes": 157279616,
+  "totalPhotoAndThumbMiB": 149.99,
+  "smallestCoverByPixelArea": {
+    "id": "world-tongariro",
+    "width": 1920,
+    "height": 568
+  }
+}

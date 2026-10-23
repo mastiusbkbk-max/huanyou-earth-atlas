@@ -1,0 +1,59 @@
+{
+  "id": "world-baa-atoll",
+  "name": "巴阿环礁",
+  "wikipedia": "Baa Atoll",
+  "country": "马尔代夫",
+  "continent": "亚洲",
+  "wikipediaTitle": "Baa Atoll",
+  "primary": "Baa_Atoll.png",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Baa Atoll.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Baa Atoll (Voavah).JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Baa Atoll Maldives.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Baa atoll islands.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Baa in Maldives.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Maldives.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Landaa Giraavaru vue du ciel.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Maldives island.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Malosmadulu Atolls, Maldives.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Manta alfredi Maldives.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Reethi Beach Maldives.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tursiops truncatus Maldives.jpg"
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import { tmpdir } from 'node:os';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { places, highlights } from '../src/content.js';
+import { realScenes } from '../src/real-scene.js';
 
 const run = promisify(execFile);
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -52,6 +53,21 @@ for (const place of orderedPlaces) {
       const x = longitudeTile(place.coordinate[0], zoom);
       const y = latitudeTile(place.coordinate[1], zoom);
       for (let dx = -radius; dx <= radius; dx++) for (let dy = -radius; dy <= radius; dy++) add(type, zoom, x + dx, y + dy);
+    }
+  }
+}
+
+// Satellite context for the published Hong Kong 3D scenes.
+for (const scene of realScenes) {
+  for (const [zoom, radius] of [[14, 1], [15, 2], [16, 3], [17, 4]]) {
+    const x = longitudeTile(scene.center[0], zoom);
+    const y = latitudeTile(scene.center[1], zoom);
+    for (let dx = -radius; dx <= radius; dx++) for (let dy = -radius; dy <= radius; dy++) add('satellite', zoom, x + dx, y + dy);
+  }
+  if (scene.terrain) {
+    for (const zoom of [13, 14]) {
+      const x = longitudeTile(scene.center[0], zoom), y = latitudeTile(scene.center[1], zoom);
+      for (let dx = -1; dx <= 1; dx++) for (let dy = -1; dy <= 1; dy++) add('terrain', zoom, x + dx, y + dy);
     }
   }
 }
@@ -162,6 +178,12 @@ try {
       neighborhood: '3 by 3 around each representative coordinate; 5 by 5 for highlighted places',
       measuredSupplement: 'Everest terrain z11 x1516-1519 y856-858; satellite same z11 range and z12 x3032-3035 y1717-1720',
       measuredFlightSupplement: 'Satellite and terrain: z6 x44-51 y24-29; z7 x92-96 y51-54; z8 x186-191 y105-107; recorded during the overview-to-Everest flight',
+      hongKongRealSceneSupplement: {
+        centers: realScenes.map(scene => scene.center),
+        scenes: realScenes.map(({ id, name, center }) => ({ id, name, center })),
+        satelliteNeighborhoods: { 14: '3 by 3', 15: '5 by 5', 16: '7 by 7', 17: '9 by 9' },
+        note: 'Sparse original JPEG satellite surroundings for the published Hong Kong real-scene cameras; this does not imply complete offline map coverage.',
+      },
       note: 'Sparse center coverage speeds common destination landings; it does not cover every flight path, tilted viewport, nearby pan, or zoom level. Unlisted tiles require the original online providers. Existing overview cache z0-5 is separate.',
     },
   };

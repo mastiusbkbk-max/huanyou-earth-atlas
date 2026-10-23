@@ -1,0 +1,43 @@
+{
+  "id": "world-rwanda-volcanoes",
+  "name": "卢旺达火山国家公园",
+  "wikipedia": "Volcanoes National Park",
+  "country": "卢旺达",
+  "continent": "非洲",
+  "wikipediaTitle": "Volcanoes National Park",
+  "primary": "Volcanoes_National_Park_Banner_Image.gif",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mountain gorilla from Susa Group in Karisimbi thicket of Volcanoes National Park in Rwanda. Emmanuel Kwizera.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Question book-new.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rwanda relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rwandan children at Volcans National Park.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Volcanoes National Park Banner Image.gif"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "world-bahla",
+  "name": "巴赫莱堡",
+  "wikipedia": "Bahla Fort",
+  "country": "阿曼",
+  "continent": "亚洲",
+  "wikipediaTitle": "Bahla Fort",
+  "primary": "Bahla_Fort.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Bahla Fort, Oman (36948538196).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bahla Fort.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Oman.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Oman adm location map.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Question book-new.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:West Asia non political with water system.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:World Heritage Logo global.svg"
+    }
+  ]
+}

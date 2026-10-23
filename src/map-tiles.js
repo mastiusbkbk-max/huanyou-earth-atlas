@@ -153,7 +153,13 @@ export function installTileProtocol(maplibregl, options = {}) {
   }
 
   async function load(tile, signal) {
-    const local = localPath(tile);
+    let local = localPath(tile);
+    if (!local && options.detailCoverageReady) {
+      // Known overview tiles can paint while detail coverage is still loading.
+      try { await options.detailCoverageReady(); } catch {}
+      if (signal.aborted) throw abortError();
+      local = localPath(tile);
+    }
     if (local) {
       try { return (await request(new URL(local, baseURL).href, signal)).data; }
       catch (error) { if (signal.aborted) throw error; }

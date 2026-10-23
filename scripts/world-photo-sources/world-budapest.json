@@ -1,0 +1,411 @@
+{
+  "id": "world-budapest",
+  "name": "布达佩斯多瑙河岸",
+  "wikipedia": "Budapest",
+  "country": "匈牙利",
+  "continent": "欧洲",
+  "wikipediaTitle": "Budapest",
+  "primary": "View_from_Gellért_Hill_to_the_Danube,_Hungary_-_Budapest_(28493220635).jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:14-05-06-budapest-RalfR-11.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:17-es villamos (2211).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:19-10-03-Margarethenbrücke und Margaretheninsel-RalfR.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:20190503 Hungarian Parliament Building 1814 2263 DxO.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:8E busz (AO-IM-013).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:A Mária Magdolna-templom 33.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ambox current red Asia Australia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:AquincM4.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BIMUN 2012 opening 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest, Bajcsy-Zsilinszki út, panoráma, 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest, M1 metró (kisföldalatti), Andrássy út.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest, Műszaki Egyetem.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest, XIX. Kós Károly tér, Wekerletelep.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest Fine Arts Museum bldg.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest Gellértbad 2.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest Hungary 08.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest Széchenyi Baths R01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest Széchenyi Baths R02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest by Sentinel-2, 2020-07-28.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Budapest metro hev en.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:COA Hungary Town Pécs.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coa Hungary Town Budapest big.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coa Hungary Town Debrecen.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coa Hungary Town Kecskemét.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coa Hungary Town Sopron.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coat of arms of Érd.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Danube Arena in 2017 FINA Budapest.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Eco MOL (solar powered) petrol station. - Budapest, XII. distr. Istenhegyi St., 55.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:ElteFotoThalerTamas1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:En-us-Budapest.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ethnographic Museum (Néprajzi Múzeum) in Budapest, Hungary.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Europe (orthographic projection).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Europe relief laea location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Fireworks in St. Stephen's Day.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Budapest (2011-).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Europe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Hungary.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Foldalatti Andrassy.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Földtani intézet - Budapest.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Gercse ősszel.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Gül Babab Türbe.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:HU-Budapest.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Békéscsaba Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Győr Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Kaposvár Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Miskolc Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Nyíregyháza Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Szeged Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Szolnok Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Szombathely Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Székesfehérvár Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Tatabánya Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Veszprém Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HUN Zalaegerszeg Címer.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:HU NUTS 24 KM.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hamilton Hungary 2015 Qual.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Heroes Square Budapest 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hu-Budapest.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hungarian National Gallery, Budapest, Hungría - panoramio (31).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hungarian Parliament Building (54172614480).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hungary-0158 - Budapest Opera House (7307318540).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hungary-0217 - Great Market Hall (7335312170).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hungary budapest districts.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hungary physical map.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Infopark budapest.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lanc hid - Budapest 3 Febr 1946 Foto Takkk Hungary.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Liszt Ferenc Repuloter 2-es terminal varocsarnok 06.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Liszt Ferenc Zeneművészeti Egyetem 2013-ban felújított homlokzata.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Margitsziget 2018-ban - légi fotó.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mol Campus.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mujegpalya Ice Rink.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Museum of Applied Arts (Budapest).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:National Athletics Centre (Budapest, HUN) 2023.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Nuremberg chronicles - BVJA.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:PD-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil links.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil oben.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil rechts.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pfeil unten.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Puskás Aréna 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Reprise Buda 1686.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Richter-Gedeon-Nyrt-P5010610.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Saint Stephen's Basilica, W, Budapest (19) (13229766465).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Stock Exchange Palace by Ignác Alpár, detail, 2011 Budapešť 0799.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Symbol category class.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Symbol list class.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Synagoge Budapest 2014.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Szabadság Square, Stock Exchange Palacve.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:SzentAnnaFotoThalerTamas34.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Szent István körút a Falk Miksa (Néphadsereg) utca felől a Honvéd utca felé nézve. A szovjet csapatok ideiglenes kivonulása 1956. október 31-én. Fortepan 24787.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Sziget Magyar Dal.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Szilágyi Dezső Square Reformed Church 21 juli 2023.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Sándor-palota napsütésben.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Terra.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:The ruins of the civil town of Aquincum and the Museum in Budapest.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:View from Gellért Hill to the Danube, Hungary - Budapest (28493220635).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikibooks-logo.svg"
+    }
+  ]
+}

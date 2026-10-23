@@ -1,0 +1,55 @@
+{
+  "id": "world-atacama",
+  "name": "阿塔卡马",
+  "wikipedia": "Valle de la Luna (Chile)",
+  "country": "智利",
+  "continent": "南美洲",
+  "wikipediaTitle": "Valle de la Luna (Chile)",
+  "primary": "Valle_della_Luna_01.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 176-178 HDR.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Atacama desert - Luna valey.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cordillera de la Sal, San Pedro de Atacama, Chile, 2016-01-31, DD 01.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Duna Mayor, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 167.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:El Valle de la Luna 04.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Relief Map of Chile.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 171.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Valle della Luna 01.jpg"
+    }
+  ]
+}

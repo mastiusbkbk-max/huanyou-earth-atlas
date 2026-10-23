@@ -1,0 +1,87 @@
+// Each scene declares the extent of its actual model coverage.
+export const realScene = {
+  id: 'hong-kong-3d',
+  placeId: 'victoria-harbour',
+  name: '香港 · 尖沙咀海滨',
+  sheet: '11-SW-4D',
+  bounds: [114.166995, 22.290104, 114.174274, 22.295523],
+  center: [114.1706, 22.2933],
+  zoom: 16.6,
+  pitch: 58,
+  bearing: -24,
+  elevation: 0,
+  url: 'models/hong-kong/tileset.json',
+  sourceUrl: 'https://www.landsd.gov.hk/en/survey-mapping/mapping/3d-mapping.html',
+  licenseUrl: 'https://portal.csdi.gov.hk/csdi-webpage/doc/TNC',
+};
+
+export const realScenes = [
+  realScene,
+  {
+    ...realScene,
+    id: 'hong-kong-wan-chai-3d',
+    name: '香港 · 湾仔会展海滨',
+    sheet: '11-SW-9D',
+    bounds: [114.166996, 22.279268, 114.174274, 22.284686],
+    center: [114.1726, 22.2833],
+    zoom: 16.2,
+    bearing: 155,
+    url: 'models/hong-kong-wan-chai/tileset.json',
+  },
+  {
+    ...realScene,
+    id: 'hong-kong-west-kowloon-3d',
+    name: '香港 · 西九文化海滨',
+    sheet: '11-NW-23D',
+    bounds: [114.152437, 22.30094, 114.159716, 22.306359],
+    center: [114.1556, 22.3022],
+    zoom: 16.2,
+    bearing: -45,
+    url: 'models/hong-kong-west-kowloon/tileset.json',
+  },
+  {
+    ...realScene,
+    id: 'hong-kong-central-3d',
+    name: '香港 · 中环IFC海滨',
+    sheet: '11-SW-8B + 11-SW-9A',
+    bounds: [114.15243981763594, 22.284684585543342, 114.16699611297271, 22.29010449739692],
+    center: [114.1595, 22.286],
+    zoom: 15.8,
+    bearing: 155,
+    elevation: 180,
+    url: 'models/hong-kong-central/tileset.json',
+  },
+  {
+    ...realScene,
+    id: 'hong-kong-peak-3d',
+    name: '香港 · 太平山凌霄阁',
+    scope: '实景覆盖凌霄阁附近约 300 × 150 米，周围山地仍为卫星影像。',
+    sheet: '11-SW-13C',
+    bounds: [114.14807161241993, 22.27113347398266, 114.15099243049912, 22.27249758106434],
+    center: [114.14985, 22.2716],
+    zoom: 17,
+    pitch: 52,
+    bearing: -20,
+    elevation: 410,
+    compressed: true,
+    terrain: true,
+    url: 'models/hong-kong-peak/tileset.json',
+  },
+  {
+    ...realScene,
+    id: 'hong-kong-stanley-3d',
+    name: '香港 · 赤柱市集海滨',
+    sheet: '15-NE-12D',
+    bounds: [114.2106452626183, 22.214241987264476, 114.21792087892702, 22.21966208539852],
+    center: [114.2124, 22.2184],
+    zoom: 16.5,
+    pitch: 55,
+    bearing: 155,
+    url: 'models/hong-kong-stanley/tileset.json',
+  },
+];
+
+export function sceneCoverage(scene = realScene) {
+  const [west, south, east, north] = scene.bounds;
+  return { type: 'Feature', properties: {}, geometry: { type: 'Polygon', coordinates: [[[west, south], [east, south], [east, north], [west, north], [west, south]]] } };
+}

@@ -1,0 +1,85 @@
+{
+  "retrievedAt": "2026-10-22",
+  "unescoXmlStatus": 403,
+  "references": [
+    {
+      "label": "VisitScotland · 斯凯岛",
+      "url": "https://www.visitscotland.com/places-to-go/islands/isle-skye",
+      "status": 200,
+      "finalUrl": "https://www.visitscotland.com/places-to-go/islands/isle-skye",
+      "title": "Isle of Skye | VisitScotland"
+    },
+    {
+      "label": "Zermatt Tourism · 马特洪峰",
+      "url": "https://www.zermatt.ch/en/Media/Attractions/Matterhorn",
+      "status": 200,
+      "finalUrl": "https://zermatt.swiss/en/p/matterhorn-01tVj000005DoH6IAK",
+      "title": "Matterhorn | Mountains in the Alps"
+    },
+    {
+      "label": "尼泊尔自然保护信托 · 安纳普尔纳保护区",
+      "url": "https://ntnc.org.np/project/annapurna-conservation-area-project-acap",
+      "status": 200,
+      "finalUrl": "https://ntnc.org.np/project/annapurna-conservation-area-project-acap",
+      "title": "Annapurna Conservation Area Project (ACAP) | The National Trust for Nature Conservation (NTNC)"
+    },
+    {
+      "label": "赫尔辛基教区 · 主教座堂",
+      "url": "https://www.helsinginseurakunnat.fi/en/",
+      "status": 200,
+      "finalUrl": "https://www.helsinginseurakunnat.fi/en/",
+      "title": "Lutheran Church in Helsinki"
+    },
+    {
+      "label": "CONAF · 百内国家公园",
+      "url": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+      "status": "unavailable",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+      "supersededBy": "https://www.unesco.org/en/mab/torres-del-paine"
+    },
+    {
+      "label": "Chile Travel · 圣佩德罗德阿塔卡马",
+      "url": "https://chile.travel/destinos/san-pedro-de-atacama/",
+      "status": 200,
+      "finalUrl": "https://chile.travel/destinos/san-pedro-de-atacama/",
+      "title": "San Pedro de Atacama - Chile Travel"
+    },
+    {
+      "label": "巴伐利亚宫殿管理局 · 新天鹅堡",
+      "url": "https://www.neuschwanstein.de/englisch/palace/index.htm",
+      "status": 200,
+      "finalUrl": "https://www.neuschwanstein.de/englisch/palace/index.htm",
+      "title": "Bayerische Schl&ouml;sserverwaltung | Neuschwanstein"
+    },
+    {
+      "label": "泰国国家旅游局 · 郑王庙",
+      "url": "https://www.tourismthailand.org/Attraction/wat-arun-temple-of-dawn",
+      "status": 403
+    },
+    {
+      "label": "韩国宫陵遗产本部 · 景福宫",
+      "url": "https://royal.khs.go.kr/ENG/contents/menuInfo-gbg.do?grpCode=gbg",
+      "status": 200,
+      "finalUrl": "https://royal.khs.go.kr/ENG/contents/menuInfo-gbg.do?grpCode=gbg",
+      "title": "Royal Palaces and Tombs Center - &gt;궁능유적본부&gt;궁능소개&gt;경복궁&gt;경복궁"
+    },
+    {
+      "label": "Gardens by the Bay · 官方园区介绍",
+      "url": "https://www.gardensbythebay.com.sg/",
+      "status": 200,
+      "finalUrl": "https://www.gardensbythebay.com.sg/",
+      "title": "Gardens by the Bay"
+    },
+    {
+      "label": "Burj Khalifa · 官方建筑介绍",
+      "url": "https://www.burjkhalifa.ae/",
+      "status": 403
+    },
+    {
+      "label": "UNESCO · 百内生物圈保护区",
+      "url": "https://www.unesco.org/en/mab/torres-del-paine",
+      "status": 200,
+      "finalUrl": "https://www.unesco.org/en/mab/torres-del-paine"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "id": "world-samarkand",
+  "name": "撒马尔罕",
+  "wikipedia": "Samarkand",
+  "country": "乌兹别克斯坦",
+  "continent": "亚洲",
+  "wikipediaTitle": "Samarkand",
+  "primary": "RegistanSquare_Samarkand.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:1872 Vereshchagin Triumphierend anagoria.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Afrasiyab ruins in Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Afrosiab (8145369219).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Afrosiyob Express Train in Station - Samarkand - Uzbekistan (7502824436) (3).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:AlBukhari mausoleum.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Beruni street in Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bibi-Khanym Mosque (8145400614).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bilingual Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Building Samarkand Mosque.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Church Cover Blessed Virgin in Samarkand 12-55.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Church Saint John Baptist in Samarkand 23-38.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Church of St. George Victorious Samarkand 08-19.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Church of St. George Victorious in Samarkand 08-18.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Church of the East provinces 10 c.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coin of Sogdian ruler Turgar, Ikhshid of Samarkand, Penjikent, 8th century CE (obverse and reverse), Tajikistan National Museum of Antiquities (319).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Daniël de Blieck - Alexander Slaying Cleitus.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Dinar of al-Mu'tazz, AH 253.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Emblem of Samarkand.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Australia (converted).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Belarus.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Belgium (civil).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Brazil.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Bulgaria.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Germany.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of India.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Indonesia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Iran.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Japan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Latvia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Mexico.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Pakistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Peru.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Russia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of South Korea.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Spain.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Tajikistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Tunisia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Turkey.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Turkmenistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Ukraine.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Uzbekistan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the People's Republic of China.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Taliban.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hotel in Rudaki and Dahbed Streets in Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Imammaturidi.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Imom al-Buxoriy yodgorlik majmuasi tungi koʻrinishi2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Kalon Minaret, Bukhara (4933987001).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lion(or tiger) on the Sher-dor madrassa.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mausoleum Khoja Daniyar 5221.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mausolées du groupe central (Shah-i-Zinda, Samarcande) (6009956484).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mosque Hazrat-Hyzr (1).JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Murad Avliya Mausoleum and Courtyard.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Nuriddin Basir Mausoleum 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Orthodox church in Samarkand 11-09.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panjab Madrasa in Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panjab Shia Mosque in Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Perspolis.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Question book-new.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rajasthan.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rajasthan3.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:RegistanSquare Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Registan Tillya-Kari madrasah2014.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Relief Map of Uzbekistan.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ruhabad.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Samarkand, Uzbekistan.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Samarkand Railway Station.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Samarqand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Shah-i-Zinda.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Shohi-Zinda majmuasi (Shah-i-Zinda, Шахи-Зинда).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:ShrineofAmirTimur.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:St. Mary Church in Samarkand 10-54.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:St John the Baptist 135.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tram in Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Turkish officers during a audience with king Varkhuman of Samarkand. 648-651 CE, Afrasiyab, Samarkand.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:UZ-Samarqand.PNG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ulugh-beg Madrassa courtyard.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ulugh Beg's Astronomic Observatory.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ulugh Beg Observatory Museum 02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Мечеть Биби Ханум. Самарканд.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Самарканд, здание Русско-Китайского банка.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Самарканд - 6.jpg"
+    }
+  ]
+}

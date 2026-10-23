@@ -1,0 +1,39 @@
+{
+  "id": "world-tsingy",
+  "name": "贝马拉哈石林",
+  "wikipedia": "Tsingy de Bemaraha Strict Nature Reserve",
+  "country": "马达加斯加",
+  "continent": "非洲",
+  "wikipediaTitle": "Tsingy de Bemaraha Strict Nature Reserve",
+  "primary": "Tsingy_de_Bemaraha_Strict_Nature_Reserve.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Ambox current red Asia Australia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Madagascar Protected Areas.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Madagascar physical map.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tsingy de Bemaraha.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tsingy de Bemaraha Strict Nature Reserve.jpg"
+    }
+  ]
+}

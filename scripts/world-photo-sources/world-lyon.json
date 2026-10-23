@@ -1,0 +1,411 @@
+{
+  "id": "world-lyon",
+  "name": "里昂历史城区",
+  "wikipedia": "Lyon",
+  "country": "法国",
+  "continent": "欧洲",
+  "wikipediaTitle": "Lyon",
+  "primary": "Lyon-part-dieu-2023.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:007. Photo prise depuis les toits de la Basilique Notre-Dame de Fourvière.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:01. Panorama de Lyon pris depuis le toit de la Basilique de Fourvière.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Accordion bus (C3 Cours Lafayette, Lyon 3e + 6e).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ainay depuis la voûte (crop).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ancien palais de justice depuis la Passerelle du Palais de Justice (Lyon) en juin 2019.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Arrondissements de Lyon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Auvergne-Rhône-Alpes region relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BassinNautique Confluence Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CC-BY icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CC BY icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Campus IPSA Lyon en juin 2026.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Carte transports Lyon juillet 2022 version 2.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Circonscriptions Métropole Lyon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Coat of Arms of Lyon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Confluence Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Confluence museum from Raymond Barre bridge.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Drapeau de Lyon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:ENS Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Eglise de St Just.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Europe (orthographic projection).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Facultés.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Festival des roses - Fontaine des Jacobins.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Algeria.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Cameroon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Europe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France (1790–1794).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France (1794–1815, 1830–1974, 2020–present).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France (1814–1830).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Lyon, France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Lyonnais.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Morocco.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Portugal (official).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Senegal.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Spain.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Tunisia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Democratic Republic of the Congo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Kingdom of France (1814-1830).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the People's Republic of China.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Fontaine Bartholdi Place des Terreaux (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Fr-Lyon.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:France-003038 - Basilica of Notre-Dame de Fourvière (15939822990).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:France-003038 - Basilica of Notre-Dame de Fourvière (15939822990 cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:France relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Grandes Serres (Parc de la Tête d'Or)-mai2011.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Halles de Lyon-Paul Bocuse 044.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Horrible Massacre à Lyon - 1834.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Hotel de Ville, Lyon. - panoramio.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Institut Lumière Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Le T6 passe devant la grande mosquée de Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Les pentes sont réputées.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon-part-dieu-2023.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon (52164665586).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon - Lugdunum - Théatre Romain.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon - façade du musée des beaux arts - 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon - panoramio (70).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon 1er - Amphithéâtre des Trois Gaules, depuis la rue des Tables Claudiennes.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon 2e Mercure au passage.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon 3e lesHalles pain.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon 5eSaintPaul C3 bus.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon 5e - Place Ennemond Fousseret - Vers le nord crop.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon 5e tour rose.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon Autoroutes.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon Bibliothèque Municipale -- Saint-Jean.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon ND St Vincent.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lyon lion maison des avocats.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Manecanterie-lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Manufacture des tabacs, Lyon 3.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Martin - Histoire des églises et chapelles de Lyon, 1908, tome I 0229.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Matmut stadium de gerland.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Métropole de Lyon map-blank.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Nef 1.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Odeon-lyon1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:P1010365Vue sur la basilique de Fourvière(Lyon).JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palais Bourse Lyon 6.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Parc OL.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Parc de la Tête d'Or Vue sur le lac7.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Place Bellecour à Lyon.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pont-R08-Lafayet-10.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Pont Raymond Barre (looking NW).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Royal Flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Royal flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rue Juiverie, Vieux Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Saint-Bonaventure, Lyon, France. - panoramio.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Siege of Lyon (1793).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Statue de Louis XIV (Lyon, 2026).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Symbol category class.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Temple Change Lyon 7.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Terra.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Théâtre des Célestins.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Trenitalia, voie I, Gare de Lyon-Part-Dieu.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Univ-lyon2-berges-fugier2008-01-25 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:View over the Saône, Lyon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:World Heritage Logo global.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Église Saint-Nizier, Lyon.jpg"
+    }
+  ]
+}

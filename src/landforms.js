@@ -36,7 +36,7 @@ export async function addLandforms(map, onSelect, collections) {
   for (const [index, kind] of ['mountain', 'river'].entries()) {
     map.addSource(kind, { type: 'geojson', data: collections[index], tolerance: .25 });
     for (const tier of [1, 2, 3]) {
-      const minzoom = tier === 1 ? 2 : tier === 2 ? (kind === 'mountain' ? 3.1 : 4) : 4.7;
+      const minzoom = tier === 1 ? 3.3 : tier === 2 ? (kind === 'mountain' ? 3.3 : 4) : 4.7;
       const common = { source: kind, minzoom, maxzoom: 8.5, filter: ['==', ['get', 'tier'], tier] };
       const lineLayout = { 'line-cap': 'round', 'line-join': 'round' };
       const haloId = `${kind}-halo-${tier}`;
@@ -69,7 +69,7 @@ export async function addLandforms(map, onSelect, collections) {
   for (const kind of ['mountain', 'river']) {
     for (const tier of [1, 2, 3]) {
       const id = `${kind}-labels-${tier}`;
-      const minzoom = tier === 1 ? 2 : tier === 2 ? (kind === 'mountain' ? 3.1 : 4) : 4.7;
+      const minzoom = tier === 1 ? 3.3 : tier === 2 ? (kind === 'mountain' ? 3.3 : 4) : 4.7;
       const overviewMax = kind === 'mountain' ? 4.3 : 5.5;
       map.addLayer({ id, type: 'symbol', source: kind, minzoom: Math.max(minzoom, overviewMax), maxzoom: 8.5,
         filter: ['==', ['get', 'tier'], tier], layout: {
@@ -100,13 +100,24 @@ export async function addLandforms(map, onSelect, collections) {
   }
 
   const hitLayers = [...landformLabelLayers, ...Object.values(layerIds).flat().filter(id => id.includes('-line-'))];
-  const hitAt = point => map.queryRenderedFeatures([[point.x - 5, point.y - 5], [point.x + 5, point.y + 5]], { layers: hitLayers })
+  const hoverLayers = [...hitLayers, ...['place-labels', 'place-selected'].filter(id => map.getLayer(id))];
+  const hitAt = (point, layers = hitLayers) => map.queryRenderedFeatures([[point.x - 5, point.y - 5], [point.x + 5, point.y + 5]], { layers })
     .find(f => (f.layer.paint['text-opacity'] ?? f.layer.paint['line-opacity'] ?? 1) > .08);
   map.on('click', e => {
+    if (e.defaultPrevented) return;
     const hit = hitAt(e.point);
     if (hit) onSelect(features.find(f => f.properties.id === hit.properties.id));
   });
-  map.on('mousemove', e => { map.getCanvas().style.cursor = hitAt(e.point) ? 'pointer' : ''; });
+  let hoverFrame;
+  let hoverPoint;
+  map.on('mousemove', e => {
+    hoverPoint = e.point;
+    if (hoverFrame || map.isMoving()) return;
+    hoverFrame = requestAnimationFrame(() => {
+      hoverFrame = null;
+      map.getCanvas().style.cursor = hitAt(hoverPoint, hoverLayers) ? 'pointer' : '';
+    });
+  });
   let selected = null;
   return {
     features,

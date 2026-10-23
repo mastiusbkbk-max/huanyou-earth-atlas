@@ -1,0 +1,411 @@
+{
+  "id": "world-panama-canal",
+  "name": "巴拿马运河",
+  "wikipedia": "Panama Canal",
+  "country": "巴拿马",
+  "continent": "北美洲",
+  "wikipediaTitle": "Panama Canal",
+  "primary": "Panama_Canal_Map_EN.svg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Administration Building, Panama Canal.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Admiralty Chart No 657 Isthmus of Panama Showing The Proposed Panama Canal and the Railway . . . , Published 1885.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Admiralty Chart No 657 Panama Canal and Approaches, Published 1914, New Edition 1915.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Agua Clara Locks 09 2019 0822.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Aquired Lands of the US.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon ABZg+r.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon BHF.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon BHFq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon CITY.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon DSTRa@g.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon DSTRe@f.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon FLUG.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon GRZq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUB-L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUB-Lq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUB-Rq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUBa@f-L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUBe@g-L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUBlf-L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon HUBrg-L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon KBHFaq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon KDSTa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon KDSTe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon KDSTeq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon PLT.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon PLTa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon PLTl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon PORTALl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon RP4+r.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon RP4oWq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon RP4q.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon SKRZ-G4u.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon STR.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon TUNNEL1.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon WASSER.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon WASSERl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon WASSERq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon WGRZq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon WKSTRaq~G.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon WKSTReq~G.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon cWDOCKSf.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon cWDOCKSg.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon cWDOCKS~L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon cWDOCKS~R.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon exWWSELq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon hKRZW.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon hKRZWae.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon lELC.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon lGIPl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon lv-DST.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon lvNULf.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon lvNULg.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon lvNULgq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon nWKSTRe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon ncKSTRWe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon numN045.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uBHF.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uCSTR.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uCSTRa@g.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uCSTRe@f.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uDOCKSm.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uDOCKg.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uDOCKr.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uFABZgl+l.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uFGATEd.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uFGATEu.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSKRZ-G4u.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSPLa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSPLe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSTR+l.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSTR+r.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSTR.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSTRl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSTRq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uSTRr.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uWWSEL.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon udSTR~L.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon udSTR~R.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon ueFABZgl+l.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexDOCKSa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexDOCKSe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexDOCKSm.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexRESVl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexSTR+l.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexSTR+r.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexSTRl.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexSTRq~G.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexSTRr.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexWWSELq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uexlDST.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uvLock3.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uvLock5.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uvSTAIRg.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon uxWEIRg.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon vDKSTRe~RRq.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon vDSTR-c2.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:BSicon vDSTR~LL.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Balboa Port.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Colon - Container Port (3169906461).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    }
+  ]
+}

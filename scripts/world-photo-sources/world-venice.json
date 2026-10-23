@@ -1,0 +1,507 @@
+{
+  "id": "world-venice",
+  "name": "威尼斯",
+  "wikipedia": "Venice",
+  "country": "意大利",
+  "continent": "欧洲",
+  "wikipediaTitle": "Venice",
+  "primary": "Venezia_aerial_view.jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:(Venice) Ca' Foscari.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:2017 06 Venezia Terminal Passeggeri Terminal Passeggeri 2860.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:2019 Venice Film Festival.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:AcquaAlta1 12 2008 3.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Actv tram Venezia leaving Piazzale Roma 2017.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Aeroporto di Venezia - vue aerienne.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ambox current red.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Arsenal - panoramio - nikola pu.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Banner of the Holy Roman Emperor without haloes (1400-1806).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bartolomeo Colleoni by Andrea del Verrocchio.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Basilica Santa Maria della Salute Venice 1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bernardo Strozzi - Claudio Monteverdi (c.1630).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CC-BY icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:CC BY icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ca' Rezzonico (Venice).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ca' d'Oro facciata.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Campanile of St. Mark's Basilica - remote view.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Canaletto - Bucentaur's return to the pier by the Palazzo Ducale - Google Art Project.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Carnevale di Venezia Masks 2010.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ciudad.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cleaning of Venetian canals, late 90's.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cruiseship passing bacino San Marco Venise.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:DSC 0617 (49258233932).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Doge's Palace (Venice) at night 2023-msu-2023-0I9A6405-.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Dorina Vaccaroni.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Europe relief laea location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Albania.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Armenia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Bangladesh.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Bosnia and Herzegovina.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Brazil.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Croatia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Estonia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Europe.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Gaeta (10th century).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Genoa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Germany.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Greece.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Indonesia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Italy (1861-1946) crowned.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Japan.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Kosovo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Moldova.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Morocco.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of North Macedonia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Republic of Venice (1659-1675).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Romania.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Russia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Senegal.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Sri Lanka.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Thailand.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Turkey.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Ukraine.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Venice.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of Vietnam.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Kingdom of Lombardy–Venetia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Napoleonic Kingdom of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the People's Republic of China.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Philippines.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of Amalfi.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of Ancona (c. 1174–1532).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of Ancona (c. 1177-1532).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of Noli.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of Pisa.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the Republic of San Marco.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Flag of the United States.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Gaspar van Wittel - View of the San Marco Basin.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Gondola convoy, Grand Canal, Venice.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Gustave dore crusades dandolo preaching the crusade.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:It-Venezia.ogg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Italy relief location map.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Képes krónika - 15.oldal - Velence megalapítása.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:La Fenice Opera House from the stage.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Lido di Jesolo 3.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Marco Polo - Battle of the King of Burma against the Mongols.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Monument to Carlo Goldoni (Venice).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Naval jack of Italy.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palazzo Cavalli-Franchetti WB.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palazzo Corner della Ca' Granda Canal Grande Venezia.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Palazzo Ferro Fini Canal Grande Venezia.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Panorama of Venice 1870s.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Paolo Monti - Serie fotografica (Venezia, 1965) - Sandolo - BEIC 6343165.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Piazzetta San Marco Venice BLS.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ponte di Rialto shops Venice 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Relief map of Italien Venetien.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Republic of Venice – Blank map of the main territories.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rialto 2025 4.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rialto vista dietra-camerlenghi.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Rio Priuli o de Santa Sofia (Venice).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Ritratto del Doge Andrea Gritti - Tiziano 059.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:San Giorgio Maggiore - Venice, Italy - panoramio.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Sebastian Cabot - S. Rawle after Hans Holbein, 1824.jpeg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Sestieri di Venezia.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Space Station Flight Over Venice.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:St. Blaise - National Flag of the Ragusan Republic.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tintoretto-selfport.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tomaso Albinoni.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tourism Venice 3.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Tourism on the Canal in Burano (Venice).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Transparent.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Transparent square.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Vaporetti Venice Lagoon.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venedig, Vedute Erhard Reuwichs in Peregrinationes in terram sanctam, Mainz 1486.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venetian glass goblet.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venezia-Stemma.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venezia - mappa municipalità.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venezia Basilica di San Marco Fassade 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venezia Santa Lucia Train Station R02.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Venezia aerial view.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:VeniceShopWindow.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:View of the Grand Canal from Rialto to Ca'Foscari.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikibooks-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikiquote-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikisource-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikiversity logo 2017.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wiktionary-logo-en-v2.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:World Heritage Logo global.svg"
+    }
+  ]
+}

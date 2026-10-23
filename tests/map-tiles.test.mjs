@@ -143,6 +143,58 @@ test('detail manifest enables only its precise high zoom tile keys', async () =>
   assert.ok(urls[2].includes('arcgisonline.com'));
 });
 
+test('pending detail coverage delays only unknown detail tiles and preserves immediate overview loading', async () => {
+  let resolveCoverage;
+  const coverage = new Promise(resolve => { resolveCoverage = resolve; });
+  let coverageCalls = 0;
+  const urls = [];
+  const get = loader(async url => { urls.push(url); return image(); }, {
+    detailCoverageReady: () => { coverageCalls++; return coverage; }
+  });
+  const detail = get(tile());
+  const overview = get(tile('satellite/4/0/15'));
+  await pause();
+  assert.equal(coverageCalls, 1);
+  assert.deepEqual(urls, ['https://example.com/china-atlas/tiles/satellite/4/0/15.jpg']);
+  assert.equal((await overview).data.byteLength, 3);
+  setDetailTileCoverage({ satellite: ['6/50/25'] });
+  resolveCoverage();
+  assert.equal((await detail).data.byteLength, 3);
+  assert.deepEqual(urls, [
+    'https://example.com/china-atlas/tiles/satellite/4/0/15.jpg',
+    'https://example.com/china-atlas/tiles/satellite/6/50/25.jpg'
+  ]);
+  await get(tile('satellite/4/1/15'));
+  assert.equal(coverageCalls, 1);
+});
+
+test('a tile cancelled while waiting for detail coverage never fetches and permits a local retry', async () => {
+  let resolveCoverage;
+  const coverage = new Promise(resolve => { resolveCoverage = resolve; });
+  const urls = [];
+  const get = loader(async url => { urls.push(url); return image(); }, { detailCoverageReady: () => coverage });
+  const controller = new AbortController();
+  const cancelled = assert.rejects(get(tile(), controller), { name: 'AbortError' });
+  controller.abort();
+  await cancelled;
+  setDetailTileCoverage({ satellite: ['6/50/25'] });
+  resolveCoverage();
+  await pause();
+  assert.deepEqual(urls, []);
+  assert.equal((await get(tile())).data.byteLength, 3);
+  assert.deepEqual(urls, ['https://example.com/china-atlas/tiles/satellite/6/50/25.jpg']);
+});
+
+test('failed detail coverage still permits the original remote fallback', async () => {
+  const urls = [];
+  const get = loader(async url => { urls.push(url); return image(); }, {
+    detailCoverageReady: () => Promise.reject(new Error('Coverage temporarily unavailable'))
+  });
+  assert.equal((await get(tile())).data.byteLength, 3);
+  assert.equal(urls.length, 1);
+  assert.ok(urls[0].includes('arcgisonline.com'));
+});
+
 test('an unavailable local tile falls back to its original remote source', async () => {
   const urls = [];
   const get = loader(async url => {

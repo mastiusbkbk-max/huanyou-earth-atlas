@@ -1,0 +1,55 @@
+{
+  "id": "world-bwindi",
+  "name": "布恩迪森林",
+  "wikipedia": "Bwindi Impenetrable National Park",
+  "country": "乌干达",
+  "continent": "非洲",
+  "wikipediaTitle": "Bwindi Impenetrable National Park",
+  "primary": "Bwindi.JPG",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:Bwindi.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:BwindiImpenetrable1.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bwindi Impenetrable National Park-112393.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bwindi Impenetrable National Park-112416.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Bwindi mountains.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Mountain gorilla (Gorilla beringei beringei) female eating root.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:RangerBwindi2021.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Red pog.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Uganda relief map.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Vervet Monkey in Uganda.jpg"
+    }
+  ]
+}

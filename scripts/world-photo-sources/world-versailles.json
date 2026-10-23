@@ -1,0 +1,267 @@
+{
+  "id": "world-versailles",
+  "name": "凡尔赛宫",
+  "wikipedia": "Palace of Versailles",
+  "country": "法国",
+  "continent": "欧洲",
+  "wikipediaTitle": "Palace of Versailles",
+  "primary": "Vue_aérienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg",
+  "images": [
+    {
+      "ns": 6,
+      "title": "File:A v Werner - Kaiserproklamation am 18 Januar 1871 (3. Fassung 1885).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Antechamber of the Emperor at Grand Trianon 001.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Appartement du Roi (Versailles).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cabinet dore Marie-Antoinette Versailles.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau Versailles Galerie des Glaces.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau Versailles cabinets interieurs de la Reine cabinet du Billard.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau de Versailles, France (8132698654).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau de Versailles - Belvedere 22-04-2005.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau de Versailles 1668 Pierre Patel.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau de Versailles 1675FXD.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Chateau de Versailles Model of the Escalier des Ambassadeurs 03.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Château de Versailles, salon de Diane, buste de Louis XIV, Bernin (1665) 00.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Château de Versailles (Orangerie).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Commons-logo.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Cour Royale, Palace of Versailles.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Durameau Opéra Versailles II.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Equestrian pictogram.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:France-000333 - Abundance Salon (14825986264).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:General view of Versailles in circa 1682 by Adam Perelle.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Heim, François-Joseph - Louis-Philippe Opening the Galerie des Batailles - 1837.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:L'Opéra-visite de la reine Victoria 1855.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Le Grand Trianon vu d'avion le 26 août 2014 - 03.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Louis-Philippe et ses fils 2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Main Façade, Palace of Versailles, Cour Royale.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Marie Antoinette amusement at Versailles.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Modern pentathlon pictogram (pre-2025).svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Nicolas Cochin Masked Ball 1745.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Olympic rings without rims.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Opera royal versailles 0004.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Opéra-vue de l'Opéra 1770.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Opéra du château de Versailles - foyer (2) - DSC 0921.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Paolo Veronese - Le Repas chez Simon le Pharisien - Google Art Project.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Parc du Château de Versailles - Le Pavillon Français.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Paris 2024 Men's Modern Pentathlon Park Of The Chateau Of Versailles.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Peter Stehlik 2013.04.22 Panorama 1A.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Plafond-Salon d'Apollon-Versailles.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Plan général de Versailles, son parc, son Louvre, ses jardins, ses fontaines, ses bosquets et sa ville par N de Fer 1700 - Gallica 2012 (adjusted).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Plans du rez-de-chaussée et du premier étage du palais de Versailles, Éditeur Gavard, premier étage - Gallica 2011 (detail, color-coded).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Queen's bedroom Grand appartement de la reine Palace of Versailles France.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Royal Opera de Versailles, Paris, MA56.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Royal Standard of the King of France.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Royal bedroom Salon de Mercure Grand appartement du roi Palace of Versailles France.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Réception du Grand Condé à Versailles (Jean-Léon Gérôme, 1878).png"
+    },
+    {
+      "ns": 6,
+      "title": "File:Salon de Vénus.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Stade de France, Olympics 2024.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:The Battle of Taillebourg, 21st July 1242.png"
+    },
+    {
+      "ns": 6,
+      "title": "File:The Grand Trianon Castle Interios.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:The queens bedchamber, Versailles Palace.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:The story of the greatest nations, from the dawn of history to the twentieth century - a comprehensive history, founded upon the leading authorities, including a complete chronology of the world, and (14586749738).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Théâtre de la Reine - salle et scène.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Trianon1.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Versailles - Plan du premier étage de l'avant corps - Architecture Françoise Tome4 Livre7 Pl8 (apts colored).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Versailles Chapel - July 2006 edit.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Versailles Château de Versailles Innen Galerie des Batailles 03.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Versailles Garden France 01.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Versailles on the 1652 map of Paris by Gomboust - Gallica 2012.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Versaillespanoraama2.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 081 (cropped).jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 124.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:West facade of Petit Trianon 002.JPG"
+    },
+    {
+      "ns": 6,
+      "title": "File:Wikivoyage-Logo-v3-icon.svg"
+    },
+    {
+      "ns": 6,
+      "title": "File:William Orpen - The Signing of Peace in the Hall of Mirrors.jpg"
+    },
+    {
+      "ns": 6,
+      "title": "File:World Heritage Logo global.svg"
+    }
+  ]
+}
