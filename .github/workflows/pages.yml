@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: mastiusbkbk-max/huanyou-earth-models
-          ref: d019b9e2f5d84a8e1eb7f95ab32147f8e0e92356
+          ref: 86188136d8e02fce0fc557ebfdee2076b1b07f80
           path: .scene-assets
           persist-credentials: false
       - uses: actions/setup-node@v4

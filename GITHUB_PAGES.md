@@ -17,7 +17,7 @@ GitHub Pages 单个已发布站点限 1 GB。原本地生产目录为 4,062,504,
 
 模型站 Git 保存当前 2,567 文件；主仓库 Release `pc-models-2026-10-23` 保存其余 1,987 个历史、tablet / mobile 模型文件。二者合并完整还原 `public/models/` 全部 4,554 文件、原始 1,477,144,419 B。Release 同时保存归档 SHA-256、历史清单及全量逐文件清单，原本地目录不删除。独立审计已逐文件确认两部分无缺失、无重复、SHA-256 全部一致。
 
-历史归档采用 Zstandard 长窗口无损压缩，文件名 `historical-models.tar.zst`，压缩后 289,692,444 B；通过去除与模型 Git 重复上传的文件，比全量 Zstandard 包少 70.9%。恢复时先克隆模型仓库并检出固定提交 `d019b9e2f5d84a8e1eb7f95ab32147f8e0e92356`，将其 `site/models` 复制到主项目 `public/models`。再下载 Release 的历史包与 `historical-models.tar.zst.sha256`，校验后在主项目根执行 `tar --zstd -xf historical-models.tar.zst`。全量 `public-models-manifest.json` 可核对全部 4,554 文件。解包需要 `zstd`，CI 的 Ubuntu 已包含解码器。
+历史归档采用 Zstandard 长窗口无损压缩，文件名 `historical-models.tar.zst`，压缩后 289,692,444 B；通过去除与模型 Git 重复上传的文件，比全量 Zstandard 包少 70.9%。恢复时先克隆模型仓库并检出固定提交 `86188136d8e02fce0fc557ebfdee2076b1b07f80`，将其 `site/models` 复制到主项目 `public/models`。再下载 Release 的历史包与 `historical-models.tar.zst.sha256`，校验后在主项目根执行 `tar --zstd -xf historical-models.tar.zst`。全量 `public-models-manifest.json` 可核对全部 4,554 文件。解包需要 `zstd`，CI 的 Ubuntu 已包含解码器。
 
 ## 自动发布
 
