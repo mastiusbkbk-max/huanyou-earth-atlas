@@ -15,15 +15,15 @@ GitHub Pages 单个已发布站点限 1 GB。原本地生产目录为 4,062,504,
 
 模型站保留 17 个完整目录、2,567 文件；`asset-manifest.json` 记录逐文件大小和 SHA-256。主站只剔除重复的历史 PNG DEM（已有逐像素相同的 WebP）、模型目录和 Pages 无法协商的 `.br/.gz` 副本。主站卫星、WebP 高程、晕渲、照片、来源与许可元数据全部保留。
 
-所有历史、PC、tablet / mobile 模型另在主仓库 Release `pc-models-2026-10-23` 完整无损归档；归档包含 `public/models/` 的全部 4,554 文件、原始 1,477,144,419 B。Release 同时保存归档 SHA-256 和逐文件清单，原本地目录不删除。当前运行模型与源代码都可从 GitHub 直接取得，历史派生模型可从 Release 恢复。
+模型站 Git 保存当前 2,567 文件；主仓库 Release `pc-models-2026-10-23` 保存其余 1,987 个历史、tablet / mobile 模型文件。二者合并完整还原 `public/models/` 全部 4,554 文件、原始 1,477,144,419 B。Release 同时保存归档 SHA-256、历史清单及全量逐文件清单，原本地目录不删除。独立审计已逐文件确认两部分无缺失、无重复、SHA-256 全部一致。
 
-归档采用 Zstandard 长窗口无损压缩，文件名 `public-models.tar.zst`。恢复时下载 Release 中该文件及 `public-models.tar.zst.sha256`，在项目目录先校验，再执行 `tar --zstd -xf public-models.tar.zst`；需要本机安装 `zstd`。CI 的 Ubuntu 已包含解码器。普通本地开发命令不要求压缩工具，只有从归档恢复模型时才需要。
+历史归档采用 Zstandard 长窗口无损压缩，文件名 `historical-models.tar.zst`，压缩后 289,692,444 B；通过去除与模型 Git 重复上传的文件，比全量 Zstandard 包少 70.9%。恢复时先克隆模型仓库并检出固定提交 `d019b9e2f5d84a8e1eb7f95ab32147f8e0e92356`，将其 `site/models` 复制到主项目 `public/models`。再下载 Release 的历史包与 `historical-models.tar.zst.sha256`，校验后在主项目根执行 `tar --zstd -xf historical-models.tar.zst`。全量 `public-models-manifest.json` 可核对全部 4,554 文件。解包需要 `zstd`，CI 的 Ubuntu 已包含解码器。
 
 ## 自动发布
 
 模型站先发布并核对资源，随后主站由 `.github/workflows/pages.yml` 构建。主站推送 `codex/pc-performance-pages` 自动发布，也可在 Actions 手动执行。
 
-工作流先下载、校验并恢复完整模型归档，然后运行单元检查、Vite 构建与 `scripts/prepare-pages.mjs --app dist-pages`。准备脚本核对实际部署总量小于 1,000,000,000 B、单文件小于 100 MiB；不会删除本地 `public/` 或普通 `dist/`。
+工作流先从上述固定 Git 提交恢复当前 PC 模型，再下载并校验历史增量归档；合并后逐文件核对全量清单中的大小与 SHA-256。随后运行单元检查、Vite 构建与 `scripts/prepare-pages.mjs --app dist-pages`。准备脚本核对实际部署总量小于 1,000,000,000 B、单文件小于 100 MiB；不会删除本地 `public/` 或普通 `dist/`。
 
 主站构建参数：
 

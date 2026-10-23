@@ -1,0 +1,77 @@
+name: Publish Huanyou PC atlas
+
+on:
+  push:
+    branches: [codex/pc-performance-pages]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore original PC models from immutable source
+        uses: actions/checkout@v4
+        with:
+          repository: mastiusbkbk-max/huanyou-earth-models
+          ref: d019b9e2f5d84a8e1eb7f95ab32147f8e0e92356
+          path: .scene-assets
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Restore and verify all lossless source models
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/huanyou-models"
+          gh release download pc-models-2026-10-23 --repo "$GITHUB_REPOSITORY" --pattern historical-models.tar.zst --pattern historical-models.tar.zst.sha256 --pattern public-models-manifest.json --dir "$RUNNER_TEMP/huanyou-models"
+          (cd "$RUNNER_TEMP/huanyou-models" && sha256sum -c historical-models.tar.zst.sha256)
+          cp -a .scene-assets/site/models public/models
+          tar --zstd -xf "$RUNNER_TEMP/huanyou-models/historical-models.tar.zst" -C "$GITHUB_WORKSPACE"
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json, os
+          manifest = json.loads((Path(os.environ['RUNNER_TEMP']) / 'huanyou-models/public-models-manifest.json').read_text())
+          expected = {item['path'] for item in manifest['files']}
+          actual = {p.as_posix() for p in Path('public/models').rglob('*') if p.is_file()}
+          assert actual == expected, 'Model file inventory mismatch'
+          for item in manifest['files']:
+              path = Path(item['path'])
+              assert path.stat().st_size == item['bytes'], str(path)
+              assert hashlib.sha256(path.read_bytes()).hexdigest() == item['sha256'], str(path)
+          print(f"Verified all {len(expected):,} original model files, byte for byte.")
+          PY
+      - run: npm test
+      - name: Build complete PC atlas
+        env:
+          ATLAS_PAGES_BUILD: '1'
+          VITE_MODEL_BASE_URL: https://mastiusbkbk-max.github.io/huanyou-earth-models/
+        run: |
+          npm run build -- --base /huanyou-earth-atlas/ --outDir dist-pages
+          node scripts/prepare-pages.mjs --app dist-pages
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist-pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy atlas
+        id: deployment
+        uses: actions/deploy-pages@v4
